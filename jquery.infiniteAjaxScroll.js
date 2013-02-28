@@ -112,7 +112,7 @@ function ajaxLoad ($elem, o) {
 	// defaults
 	$.fn.infiniteAjaxScroll.options = {
 		"wrap": ".js_album_reports_wrap",
-		"url" : "main_albums.html?sort=top&amp;type=album",
+		"url" : "ajax.html?",
 		"k"   : 2,
 		"page": 2
 	};
